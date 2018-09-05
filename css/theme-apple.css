@@ -1,0 +1,37 @@
+body{background-image:url(../image/apple/bg.jpg);}
+h1{color:#821260;}
+
+.tophdr ul li{color:#9f9;}
+.tophdr ul li a{color:#9f9;}
+.tophdr h5{color:#fff;}
+form input.gobtn{background-image:url(../image/grape/btn-go.png)}
+
+.navbar{background-image:url(../image/apple/Top-Bar.png)}
+
+ul.lftnav li{background-image:url(../image/apple/nav.png)}
+
+.box h2 small a{color:#ccc;}
+.box1 h1{color:#9c0;}
+.box1 h2{color:#6cf;}
+.box1 h4{color:#9c0;}
+.box1 h3{color:#6cf;}
+
+.box2 h2{color:#6cf;}
+.box2 span a{color:#9c0;}
+
+.box3 h2{color:#6cf;}
+.box3 strong{color:#9c0;}
+
+.box4 h2{color:#6cf;}
+.oita{color:#9c0;}
+
+.box5 h2{color:#6cf;}
+.box5 b{color:#9c0;}
+
+
+.ftrBble{background-image:url(../image/apple/babble.png)}
+
+.ftr{background-image:url(../image/apple/ftr-bar.png)}
+
+img.topAple{position:absolute; left:-74px; top:19px;}
+img.ftrAple{position:absolute; right:212px; top:0px;}

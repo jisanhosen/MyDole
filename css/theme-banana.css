@@ -1,0 +1,39 @@
+body{background-image:url(../image/banana/bg.jpg);}
+
+.tophdr ul li{color:#9cf;}
+.tophdr ul li a{color:#9f9;}
+.tophdr h5{color:#fff;}
+form input.gobtn{background-image:url(../image/grape/btn-go.png)}
+
+.navbar{background-image:url(../image/banana/top-bar.png)}
+
+ul.lftnav li{background-image:url(../image/banana/nav-itm.png)}
+
+.box h2 small a{color:#ccc;}
+.box1 h2{color:#6cf;}
+.box1 h4{color:#ff7800;}
+.box1 h3{color:#1479b4;}
+.box1 h1{color:#ff7800}
+
+.box2 h2{color:#6cf;}
+.box2 span a{color:#9c0}
+.linkclr a{color:#147ab3;}
+
+
+.box3 h2{color:#6cf;}
+.box3 strong{color:#ff7800;}
+
+.box4 h2{color:#6cf;}
+.oita{color:#ff7800;}
+
+.box5 h2{color:#6cf;}
+.box5 b{color:#0d83c6;}
+
+
+.ftrBble{background-image:url(../image/banana/babble.png)}
+
+.ftr{background-image:url(../image/banana/ftr-bar.png)}
+
+img.topBnna{position:absolute; left:-100px; top:-15px; z-index:6;}
+img.ftrBnna{position:absolute; right:260px; top:-20px; z-index:6;}
+img.midBnna{position:absolute; left:-134px; top:610px;}
